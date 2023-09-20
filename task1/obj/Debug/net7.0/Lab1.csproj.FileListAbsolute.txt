@@ -1,0 +1,14 @@
+/Users/sergejbas/RiderProjects/Lab1/Lab1/bin/Debug/net7.0/Lab1
+/Users/sergejbas/RiderProjects/Lab1/Lab1/bin/Debug/net7.0/Lab1.deps.json
+/Users/sergejbas/RiderProjects/Lab1/Lab1/bin/Debug/net7.0/Lab1.runtimeconfig.json
+/Users/sergejbas/RiderProjects/Lab1/Lab1/bin/Debug/net7.0/Lab1.dll
+/Users/sergejbas/RiderProjects/Lab1/Lab1/bin/Debug/net7.0/Lab1.pdb
+/Users/sergejbas/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejbas/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/Lab1.AssemblyInfoInputs.cache
+/Users/sergejbas/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/Lab1.AssemblyInfo.cs
+/Users/sergejbas/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/sergejbas/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/Lab1.dll
+/Users/sergejbas/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/refint/Lab1.dll
+/Users/sergejbas/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/Lab1.pdb
+/Users/sergejbas/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/Lab1.genruntimeconfig.cache
+/Users/sergejbas/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/ref/Lab1.dll
