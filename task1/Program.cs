@@ -4,9 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter C: ");
-            float C = float.Parse(Console.ReadLine());
-            Console.WriteLine("r = " + C / (2 * Math.PI));
+            Console.Write("Enter A: ");
+            double a = double.Parse(Console.ReadLine());
+            Console.Write("Enter B: ");
+            double b = double.Parse(Console.ReadLine());
+            Console.WriteLine(a*b);
         }
     }
 }

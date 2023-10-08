@@ -7,8 +7,7 @@ namespace task2
         static void Main(string[] args)
         {
             double x = double.Parse(Console.ReadLine());
-            Console.Write((5 * Math.Pow(x, 3)) *
-                          (Math.Pow(1 / Math.Pow(x, 2) + (1 / Math.Pow(x, 3)), (1 / 5.0))));
+            Console.Write(Math.Pow(2,(-x)) * Math.Sqrt(x + Math.Pow(Math.Abs(x), 1 / 4.0)));
         }
     }
 }

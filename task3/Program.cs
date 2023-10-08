@@ -9,7 +9,8 @@ namespace task3
             double x = Convert.ToDouble(Console.ReadLine());
             double y = Convert.ToDouble(Console.ReadLine());
             
-            if ((x*x + (y*y)/4 < 1) | ((x*x)/4 + y*y < 1) & y < 2 & y > -2 & x < 2 & x > -2)
+            if ((y <= 1 & x <= 1 & x >= -1) && (x >= -1 & y >= -1) 
+                                            || (y - x >= -2 & y >= -2 & y <= 0 & x >= 0 & x <= 2))
             {
                 Console.WriteLine("YES");
             }
